@@ -16,7 +16,7 @@ module.exports = function reverse(n) {
             // getting string from an array
             // ["3", "2", "1"] => "321"
             .join('')
-        ) * Math.sign(n) //to return the sign of number
+        )
     )
 
 }
